@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+The project is intended for git beginners to learn the basics of this programming language
 
 ### Files used
 Include the files used
